@@ -11,7 +11,7 @@ public class TestPayment1 {
     @Before
     public void setUp() {
         System.out.println("----------START!----------");
-        System.out.println("----------First JUnit4 Set----------");
+        System.out.println("----------First Test JUnit4 Set----------");
         payment = new Payment(40);
     }
 
